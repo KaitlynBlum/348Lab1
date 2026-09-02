@@ -1,3 +1,3 @@
 void main{
-    printf("Bye, World!");
+    printf("C program!");
 }
